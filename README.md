@@ -1,5 +1,6 @@
 This project is a simple Currency Converter that predicts the exchange rate from USD to EUR using historical exchange rate data. It leverages a basic linear regression model trained on past exchange rates to estimate future currency values. The entire tool is implemented in Python, without any web development components, making it easy to run and use locally.
 
+
 What the Project Does and How It Works
 
 Data Preparation: Historical exchange rate data is cleaned and preprocessed by converting dates into numerical values suitable for machine learning models.
